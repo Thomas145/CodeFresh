@@ -18,6 +18,13 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+# Logs
+*.log
+
 # =========================
 # Operating System Files
 # =========================
+/target/
+.settings/
+.project
+.classpath

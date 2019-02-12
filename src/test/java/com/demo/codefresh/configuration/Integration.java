@@ -23,9 +23,7 @@ public class Integration extends PreTest {
 
 	@Test
 	public void buildTest() {
-		
 		assertTrue( true );
-		
 	}
 	
 }
